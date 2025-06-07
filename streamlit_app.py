@@ -5,6 +5,7 @@ warnings.simplefilter(action="ignore", category=FutureWarning)
 
 # Must be the first Streamlit command
 st.set_page_config(page_title="personalsite", layout="wide")
+st.title('ZoZo Land')
 
 # Import pages from the new directory
 from page_content.home import home_page
