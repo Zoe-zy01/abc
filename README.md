@@ -23,7 +23,10 @@ project/
     ├── css/                # CSS stylesheets
     │   └── style.css       # Main stylesheet
     ├── images/             # Image files
-    │   └── image.png       # Profile image
+    │   └── image.jpg       # Profile image
+    │   └── dianping.jpg    # Profile image
+    │   └── dewu.jpg        # Profile image
+    │   └── kotex.png       # Profile image
     └── docs/               # Documents
         ├── resume.md       # Resume in markdown format
         └── resume.pdf      # Resume in PDF format
